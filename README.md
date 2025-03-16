@@ -1,11 +1,6 @@
-# temperature-converter-
-Python program for Celsius &lt;-> Fahrenheit conversion with single and range support. 
-
-# Temperature Converter
-
 ## Overview
 
-This is a beginner-friendly Python program that converts temperatures between Celsius and Fahrenheit. The user can choose to convert a **single temperature** or a **range of temperatures** using a specified step size.
+Python program for Celsius <-> Fahrenheit conversion with single and range support using a specified step size.
 
 ## Features
 
